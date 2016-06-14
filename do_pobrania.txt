@@ -1,0 +1,5 @@
+ DestDir < Anime/HunterxHunter
+ name< sdfsdf
+ odc <131
+DownUrl< http://sdf/wsdf2/....2
+
